@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
-project_name = "MLOPS_Titanic_Project"
+project_name = "mlops_titanic"
 
 
 
