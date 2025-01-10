@@ -1,6 +1,7 @@
 pandas 
 notebook
 numpy
+seaborn
 scikit-learn
 matplotlib
 python-box==6.0.2
